@@ -1,0 +1,1 @@
+{"t": {"username": "t", "password": "t", "name": "t", "email": "t", "phone_number": "12345", "bookings": {"hotel_H_2024-10-09_2024-10-27": {"type": "Hotel", "name": "h", "start_date": "2024-10-09", "end_date": "2024-10-27", "num_nights": 18, "total_price_rm": 2700.0, "total_price_usd": 621.0, "status": "Confirmed"}}}}
